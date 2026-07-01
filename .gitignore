@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw Kaggle dataset (download separately — see README)
+data.csv
+ecommerce-data.zip
