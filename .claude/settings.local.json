@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; nb=json.load\\(open\\('Assignment_2/Assignment_02.ipynb'\\)\\); [print\\(c['cell_type'], '::', ''.join\\(c['source']\\)[:80].replace\\(chr\\(10\\),' '\\)\\) for c in nb['cells'][:20]]\")"
+    ]
+  }
+}
