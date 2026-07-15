@@ -1,0 +1,12 @@
+,Value
+Raw rows,1338
+Cleaned rows,1337
+Duplicates removed,1
+Expensive threshold,9386.1613
+Smoker cost ratio,3.7971237637436497
+Best regression model,Decision Tree Regression
+Best regression RMSE,4345.875199546015
+Best regression R2,0.8972190041804287
+Best classification model,Support Vector Classifier (RBF)
+Best classification F1,0.9389312977099237
+Best classification ROC_AUC,0.9613499665849855

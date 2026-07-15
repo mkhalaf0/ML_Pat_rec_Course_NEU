@@ -1,0 +1,9 @@
+feature,coefficient,eliminated
+smoker_yes,22737.68298481607,False
+age,3436.996911228046,False
+bmi,1818.083329894963,False
+children,595.8063724018542,False
+region_southeast,-152.51617895529958,False
+region_southwest,-28.666454754720366,False
+sex_male,-0.0,True
+region_northwest,0.0,True
